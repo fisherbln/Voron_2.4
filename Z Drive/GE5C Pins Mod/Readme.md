@@ -1,4 +1,6 @@
-Orinially Sourced from here: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Pins_Mod
+Originally Sourced from here: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Pins_Mod
+
+GE5C Mod: https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C
 
 This mod is for the V2, it involves printing new AB drive frames, new XY Joints, new Front Tensioners, and new Z idlers
 
